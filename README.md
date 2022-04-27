@@ -4,8 +4,6 @@
 - 🔭 Desenvolvedora full-stack .NET Angular
 - 🌱 Atualmente estudando sobre Clean Code e Design Patterns
 - 😄 Pronouns: ela/dela
-- 🐶 Apaixonada por Dogs
-- 💑 Casada com David
 
 <div>
   <a href="https://github.com/janainaon1">
