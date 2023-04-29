@@ -1,8 +1,8 @@
 ## Olá, sou a Janaina Oliveira!
 
 
-- 🔭 Desenvolvedora full-stack .NET Angular
-- 🌱 Atualmente estudando sobre Clean Code e Design Patterns
+- 🔭 Desenvolvedora full-stack .NET | Angular | React
+- 🌱 Atualmente estudando sobre Testes, TDD, Clean Code e Design Patterns
 - 😄 Pronouns: ela/dela
 
 <div>
